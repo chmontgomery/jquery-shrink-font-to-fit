@@ -12,7 +12,6 @@
       if ($target.prop('scrollWidth') > $target.width()) {
         var newFontSize = parseInt($target.css('font-size')) - 1;
         if (newFontSize < defaultOpts.minFontSize) { // don't allow smaller than this
-          // hide overflow text
           if (defaultOpts.wrapAtMinSize) {
             $target.css('white-space', 'normal');
             return;

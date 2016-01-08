@@ -1,6 +1,6 @@
 # Shrink Font to Fit jQuery Plugin
 
-> Shrinks the target text font so that the text will never wrap
+Shrinks the target text font so that the text will never wrap
 
 ## Demo
 
